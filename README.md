@@ -1,3 +1,7 @@
+### Description:
+An API for storing and getting electric readings from IoT devices.
+
+
 ### Tech Stack:
 - FastAPI
 
