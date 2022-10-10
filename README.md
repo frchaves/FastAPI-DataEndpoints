@@ -6,8 +6,8 @@ An API for storing and getting electric readings from IoT devices.
 - FastAPI
 
 ### Setup:
-- Clone project to a folder (_**git clone https://github.com/frchaves/FastAPI-DataEndpoints.git**_)
-- Open terminal in the project folder
+- Clone the project to a folder (_**git clone https://github.com/frchaves/FastAPI-DataEndpoints.git**_)
+- Open the terminal in the project folder
 - Run the application with:
   - uvicorn main:app --reload
   - Test the endpoints at (_**http://localhost:8001/docs#**_)
